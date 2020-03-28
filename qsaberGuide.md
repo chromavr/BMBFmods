@@ -64,7 +64,7 @@ Select one which you think will fit with the Mesh you want to apply it to. After
 
 ![Shader settings](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/qsaber/10%20shader%20settings.JPG)
 
-When everything is to your liking, you can now apply the Material to your mesh. Simply drag the Material on the part you want it to be affected by. I created 3 materials for the saber im using, Blue, Red and the material for the Blade and Handle. 
+When everything is to your liking, you can now apply the Material to your mesh. Simply drag the Material on the part you want it to be affected by. I created 3 materials for the saber im using, they are: Blue, Red and the material for the Blade and Handle. 
 
 When you like how the saber looks you can now export your saber. To do that go to the `Window` tab and click `Saber Exporter`. A new Window will appear which will look like this:
 
