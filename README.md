@@ -8,6 +8,7 @@ In this guide i'll be using the GHOST saber by Hooi.
 - First of all you need the [Unity Version 2019.3.2f1](https://unity3d.com/de/get-unity/download?thank-you=update&download_nid=63532&os=Win) (keep in mind that you need to install the Android SDK too)
 - This [Unity project](https://bs.assistant.moe/Sabers/resources/CustomSaberUnityProject.zip), [Source](https://bs.assistant.moe/Sabers/)
 - and lastly you need a model program of your choice
+- This [GuideFiles.zip](https://github.com/chromavr/BMBFmods/raw/master/GuideFiles/qsaber/GuideFiles.zip) (you only need this zip file if you want to put your saber in a BMBF compatible mod)
 
 # Getting the model
 ## Using a Premade Model
