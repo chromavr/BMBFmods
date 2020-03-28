@@ -18,7 +18,7 @@ When using a premade one, you need to split it first, because later in Unity you
 When you use a selfmade model you dont need to split it, except its one mesh. I wont be going over on how to make your own model. Since this is a qsaber, you wont need to split it into three meshes.
 
 # In Unity
-When you got your models ready, you now need to open Unity with the CustomSaberUnityProject. Of course you need to select the right version of Unity and choose Android as the Build Platform. Then you open the project. It may warn you that you're on the wrong Unity version, but ignore that and click confirm, tt will work either way.
+When you got your models ready, you now need to open Unity with the CustomSaberUnityProject. Of course you need to select the right version of Unity and choose Android as the Build Platform. Then you open the project. It may warn you that you're on the wrong Unity version, but ignore that and click confirm, it will work either way.
 
 ![Choosing the right Version of Unity](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/qsaber/1%20selecting%20unity%20version.JPG) 
 
@@ -27,6 +27,14 @@ When you got your models ready, you now need to open Unity with the CustomSaberU
 When opened, check if the `Saber Exporter` in the `Window` tab is existent.
 
 ![Check if the Saber Exporter is existent](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/qsaber/3%20check%20if%20saber%20exporter%20is%20existent.jpg)
+
+After that, we have to make some special settings. To do that go to `Edit Tab -> Project Settings -> Player` and scroll down a bit. In the `Other Settings` drop-down menu you want to disable `Multithreaded Rendering` and `Auto Graphics API` and add `Vulkan` to the Graphics APIs. To do that click the little + and select Vulkan. 
+
+![Disabling Multithreaded Rendering & Auto Graphics API and add Vulkan]()
+
+Then you have to open the drop-down menu `XR Settings`. In there you want to enable `Virtual Reality Supported` and add `Oculus` to the `Virtual Reality SDKs`. To add Oculus to it you simply press the small + again and add it. Then you have to select `Single Pass` for the `Stereo Rendering Mode`.
+
+![Adjusting XR Settings]()
 
 The scene should contain a Object called `Template Saber`, select the Object. If you opened the scene for the first time, you might be a bit far from the Template Saber. To select the saber you click the Object `Template Saber` in the Hierarchy (the window on the left side of Unity). Click the small arrow next to it or double click the Object to discover two GamObjects named `LeftSaber` and `RightSaber`. Check if both GameObjects have the EventManager attached.
 
