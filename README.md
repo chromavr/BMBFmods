@@ -17,7 +17,7 @@ When you use a selfmade model you dont need to split it, except its one mesh. I 
 # In Unity
 When you got your models ready, you now need to open Unity with the CustomSaberUnityProject. Of course you need to select the right version of Unity and choose Android as the Build Platform. Then you open the project. It may warn you that you're on the wrong Unity version, but ignore that and click confirm, tt will work either way.
 
-![Choosing the right Version of Unity](/GuideFiles/Images/qsaber/1 selecting unity version.JPG) 
+![Choosing the right Version of Unity](./GuideFiles/Images/qsaber/1 selecting unity version.JPG) 
 
 When opened, check if the `Saber Exporter` in the `Window` tab is existent.
 
