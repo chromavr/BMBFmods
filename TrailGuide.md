@@ -59,7 +59,7 @@ You just have to change something at the bottom of the json, so scroll down to i
     "id": "ModID",
     "name": "Mod name",
     "author": "Yourname",
-    "category": "Other"
+    "category": "Trail"
 }
 ```
 
@@ -75,7 +75,7 @@ This is pretty self-explanitory but im explaining it anyways:
     "id": "ModID", --- The ModID
     "name": "Mod name", --- The Mod Name (what will be shown in BMBF)
     "author": "Yourname", --- Your Name 
-    "category": "Other"
+    "category": "Trail"
 }
 ```
 
@@ -91,7 +91,7 @@ Now you change the fields. For my mod i put this in:
     "id": "GlitchTrail",
     "name": "Glitch Trail",
     "author": "chromavr",
-    "category": "Other"
+    "category": "Trail"
 }
 ```
 
