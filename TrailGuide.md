@@ -31,7 +31,7 @@ You have to disable `Constrain Proportions` so you can edit the image without it
 
 Now you can save it as a png. After that you can open UABE and open the GuideFiles file in the GuideFiles.zip file. To do so click `File` and then `Open` in UABE. When its opened you will see the asset `FullTrail`, click on it and then click `Plugins`. 
 
-![UABE Window]()
+![UABE Window](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/3%20uabe%20window.JPG)
 
 A small window will appear with 3 options inside of it. You will click `Edit` and then `Ok`. Another Window will apear with the Edit settings. You just want to click `Load` and select your image. After that you click `Ok` again and both small windows will close. 
 
