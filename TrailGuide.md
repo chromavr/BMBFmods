@@ -66,7 +66,7 @@ You just have to change something at the bottom of the json, so scroll down to i
 This is pretty self-explanitory but im explaining it anyways:
 ```
 "version": "1.0.0", --- The version of your mod.
-    "links": {}, --- You can put a link to your image source here, but not needed.
+    "links": {}, --- You can use this to link to your website, github, twitter, anything like that where people can find information about your mods.
     "description": [
         "Mod Description" --- The description of the Mod.
     ],
