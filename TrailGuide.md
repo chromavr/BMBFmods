@@ -13,6 +13,14 @@ If you have any questions, please DM me on Discord (chromavr#2712)
 
 You can use a image that you found on the internet or one you made. I wont be going over on how to create a image. 
 
+**Keep in mind that the bottom of the image will be directly on you saber**
+
+Example:
+
+![How the trail is connected to the saber](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/Image%20showing%20how%20the%20trail%20is%20connected%20to%20the%20saber.jpg)
+
+**The red arrow shows which edge of the image will be on the top of the saber**
+
 # Editing the image
 
 When you have your image you open up your image editing program and get your chosen image into it. Now you want to change the size of the image to 128x128, since that is the size of the Trail ingame. In Krita you resize it through `Image -> Scale Image to new Size` or by just pressing `CTRL + Alt + I`. 
