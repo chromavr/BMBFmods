@@ -31,7 +31,7 @@ You have to disable `Constrain Proportions` so you can edit the image without it
 
 ![Resize Image](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/1.1%20resize%20image.JPG)
 
-*This is optional: You may want to add a fade to it. Simply do that by selecting the `Gradient Tool` and drag it from right to left.* 
+*This is optional: You may want to add a fade to it. Simply do that by selecting the `Gradient Tool` and drag it from bottom to top. Also if you want to make it transparent you'll need to make the fade black.* 
 
 ![Gradient Tool](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/2%20gradient%20tool.jpg)
 
