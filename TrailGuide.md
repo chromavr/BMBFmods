@@ -6,6 +6,7 @@ If you have any questions, please DM me on Discord (chromavr#2712)
 # Required Files and Programs for making a Trail
 
 - A image editor of your choice (I will be using [Krita](https://krita.org/en/download/krita-desktop/#) in this tutorial)
+- A Text editor like Notepad++ (I wouldn't recommend Notepad, i'll use [Sublime Text](https://www.sublimetext.com/3) in this tutorial)
 - [UABE](https://mega.nz/#!ScgiWYRJ!5b_9g2B4eOZaAA3JAV2htVRamNYuxQLrWyMbSXv-k1o) ([Source](https://forums.7daystodie.com/forum/-7-days-to-die-pc/game-modification/tools/23262-unity-assets-bundle-extractor?22675-Unity-Assets-Bundle-Extractor=))
 - This [GuideFiles.zip](https://github.com/chromavr/BMBFmods/raw/master/GuideFiles/Trail/GuideFiles.zip)
 
@@ -53,8 +54,7 @@ After that you wanna click `Ok` and you want to save the changes. Save it as wha
 
 ![Saving as FullTrail.dat](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/5%20saving%20as%20FullTrail.JPG)
 
-After that you can close UABE. Now that you have exported the Trail, you want to edit the `bmbfmod.json` file in the GuideFiles zip. To do so, open the file with a text editor of your choise (any other than Notepad works fine, i use [Sublime Text](https://www.sublimetext.com/3)). 
-
+After that you can close UABE. Now that you have exported the Trail, you want to edit the `bmbfmod.json` file in the GuideFiles zip. To do so, open the file with a text editor of your choise.
 You just have to change something at the bottom of the json, so scroll down to it. What you see there is this:
 ```
 "version": "1.0.0",
