@@ -8,7 +8,7 @@ If you have any questions, please DM me on Discord (chromavr#2712)
 - A image editor of your choice (I will be using [Krita](https://krita.org/en/download/krita-desktop/#) in this tutorial)
 - A Text editor like Notepad++ (I wouldn't recommend Notepad, i'll use [Sublime Text](https://www.sublimetext.com/3) in this tutorial)
 - [UABE](https://mega.nz/#!ScgiWYRJ!5b_9g2B4eOZaAA3JAV2htVRamNYuxQLrWyMbSXv-k1o) ([Source](https://forums.7daystodie.com/forum/-7-days-to-die-pc/game-modification/tools/23262-unity-assets-bundle-extractor?22675-Unity-Assets-Bundle-Extractor=))
-- This [GuideFiles.zip](https://github.com/chromavr/BMBFmods/raw/master/GuideFiles/Trail/GuideFiles.zip)
+- This [GuideFiles.zip](https://github.com/chromavr/BMBFmods/blob/master/GuideFiles/Trail/GuideFilesTrail.zip)
 
 # Getting your Image for the Trail
 
