@@ -2,6 +2,7 @@
 In this guide i'll be showing you how to create your own qsabers. Be prepared for some typing errors, i am just a human, i make some mistakes too.
 
 In this guide i'll be using the GHOST saber by Hooi.
+If you happen to have questions, DM me on Discord (Kitoyo#2712)
 
 # Required Programs and Files for making a qsaber
 
