@@ -1,7 +1,7 @@
-# chromavr's guide on how to create custom Trails
+# Kitoyo's guide on how to create custom Trails
 
 In this guide i'll be showing you how to create custom Trails. 
-If you have any questions, please DM me on Discord (chromavr#2712)
+If you have any questions, please DM me on Discord (Kitoyo#2712)
 
 # Required Files and Programs for making a Trail
 
@@ -98,7 +98,7 @@ Now you change the fields. For my mod i put this in:
     "platform": "Quest",
     "id": "GlitchTrail",
     "name": "Glitch Trail",
-    "author": "chromavr",
+    "author": "Kitoyo",
     "category": "Trail"
 }
 ```
@@ -117,4 +117,4 @@ Now you just drag your Mod into the upload setion of BMBF and test it out.
 
 Nice! Now that everything works you can take a screenshot. When you made a screenshot go back to your PC again and get it from the Quest. Open it with a image editor and save it as `Cover.png`. After that you zip the files again, this time with the Cover and, you're done!
 
-If you have any questions about this guide or any other stuff, please DM me on Discord (chromavr#2712).
+If you have any questions about this guide or any other stuff, please DM me on Discord (Kitoyo#2712).
