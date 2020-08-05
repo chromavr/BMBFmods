@@ -38,7 +38,7 @@ You have to disable `Constrain Proportions` so you can edit the image without it
 
 ![Gradient Tool](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/2.1%20creating%20the%20fade.jpg)
 
-Now you can save it as a png. After that you can open UABE and open the GuideFiles file in the GuideFiles.zip file. To do so click `File` and then `Open` in UABE. When its opened you will see the asset `FullTrail`, click on it and then click `Plugins`. 
+Now you can save it as a png. After that you can open UABE and open the GuideFiles file in the GuideFiles.zip file. To do so unzip the file first and after that click `File` and then `Open` in UABE. Navigate to the place to where you have the folder which you uzipped and open the FullTrail.dat. When its opened you will see the asset `FullTrail`, click on it and then click `Plugins`. 
 
 ![UABE Window](https://raw.githubusercontent.com/chromavr/BMBFmods/master/GuideFiles/Trail/3%20uabe%20window.JPG)
 
