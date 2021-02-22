@@ -1,4 +1,4 @@
-# chromavr's Guide to make qsabers
+# Kitoyo's Guide to make qsabers
 In this guide i'll be showing you how to create your own qsabers. Be prepared for some typing errors, i am just a human, i make some mistakes too.
 
 In this guide i'll be using the GHOST saber by Hooi.
